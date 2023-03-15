@@ -166,7 +166,6 @@ label input[type="radio"]:checked +.accordion-title + .accordion-image {
     height: 25em;
   }
 }
-
 /* media: hover */
 @media (hover: hover) {
   .accordion:hover {
